@@ -8,3 +8,6 @@ Front-End Developer | Learning MERN Stack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safeya-Yasien)](https://github.com/Safeya-Yasien/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safeya-Yasien&langs_count=8)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Safeya-Yasien)](https://github.com/Safeya-Yasien/github-readme-stats)
