@@ -6,5 +6,4 @@ Front-End Developer | Learning MERN Stack
 <img src="https://streak-stats.demolab.com?user=Safeya-Yasien&theme=highcontrast&timezone=Africa/Cairo" />
 </a>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safeya-Yasien&theme=dark&layout=compact&count_private=true)
